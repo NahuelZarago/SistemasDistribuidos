@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sMe1wQXa53c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC Juegos\\Desktop\\soejercicios\\LamportPedidos\\OrdersService\\OrdersService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC Juegos\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\PC Juegos\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

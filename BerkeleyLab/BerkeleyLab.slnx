@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BerkeleyCoordinator/BerkeleyCoordinator.csproj" />
+  <Project Path="ClockNode/ClockNode.csproj" />
+</Solution>
